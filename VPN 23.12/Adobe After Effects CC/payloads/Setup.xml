@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Setup version="7.0.0.72">
+  <mediaSignature>{317243C1-6580-4F43-AED7-37D4438C3DD5}</mediaSignature>
+  <WorkflowVersion>CS7</WorkflowVersion>
+  <DEVersion>7.0</DEVersion>
+  <Languages>
+    <Language>de_DE</Language>
+    <Language>en_US</Language>
+    <Language>en_GB</Language>
+    <Language>es_ES</Language>
+    <Language>es_MX</Language>
+    <Language>fr_CA</Language>
+    <Language>fr_FR</Language>
+    <Language>it_IT</Language>
+    <Language>ja_JP</Language>
+    <Language>ko_KR</Language>
+    <Language>zh_CN</Language>
+    <Language>en_AE</Language>
+    <Language>en_IL</Language>
+    <Language>fr_MA</Language>
+  </Languages>
+  <Media>
+    <Volume>
+      <Name>Aftr Efcts CC</Name>
+      <Payloads>
+        <Payload folder="AdobeAfterEffects12en_USLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12AllTrial">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2008 Redist (x64)">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeCameraRaw8.0All">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeCameraRaw8.0All-x64">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeMotionPicture5_0-mul">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeDynamiclinkSupport7All">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12de_DELanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAPE3.4_x64-mul">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeCameraRawProfile8.0All">Adobe After Effects CC</Payload>
+        <Payload folder="AMECore7All_x64">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2005 Redist (x86)">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeDynamicLinkMediaServer7All">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12fr_FRLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12ja_JPLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeFontsRecommended_x64-mul">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12SupportAll">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12ko_KRLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2005 Redist (x64)">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeColorCommonSetRGB5_0-mul">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12es_ESLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2008 Redist (x86)">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12zh_CNLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffects12it_ITLanguagePack">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAfterEffectsPresets12All">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeFontsRequired_x64-mul">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeAPE3.4-mul">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2010 Redist (x64)">Adobe After Effects CC</Payload>
+        <Payload folder="AdobeVideoProfilesAE5_0-mul">Adobe After Effects CC</Payload>
+        <Payload folder="Microsoft VC 2010 Redist (x86)">Adobe After Effects CC</Payload>
+      </Payloads>
+    </Volume>
+  </Media>
+</Setup>
