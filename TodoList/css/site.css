@@ -1,0 +1,8 @@
+button{
+    width: 100%;
+    border-radius: 0.5vw;
+}
+.btn-close{
+    position:absolute;
+    right: 10px;
+}
