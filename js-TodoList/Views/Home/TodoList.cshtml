@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "TodoList";
+}
+<h1>@ViewData["Title"]</h1>
+
+@* <p>web sitenizin todo list işlemleri için bu sayfayı kullanın </p> *@
+
+
+    <div class="container">
+        <h1 class="text-center">TodoList</h1>
+        <div class="row bg-secondary p-4 rounded-3 ">
+  
+            <div class="col-10">
+                <input type="text" id="txtTitle" class="form-control" placeholder="Başlık">
+            </div>
+            <div class="col-2">
+                <button class="btn btn-success" id="btnAdd">Ekle</button>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="list-group mt-5" id="list">
+             
+            </ul>
+        </div>

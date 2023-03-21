@@ -1,0 +1,101 @@
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\appsettings.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.staticwebassets.runtime.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.exe
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.dll
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\bin\Debug\net6.0\Yeni klasör.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\scopedcss\bundle\Yeni klasör.styles.css
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\scopedcss\projectbundle\Yeni klasör.bundle.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.dll
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\refint\Yeni klasör.dll
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\Yeni klasör\obj\Debug\net6.0\ref\Yeni klasör.dll
+G:\js-TodoList\bin\Debug\net6.0\appsettings.Development.json
+G:\js-TodoList\bin\Debug\net6.0\appsettings.json
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.staticwebassets.runtime.json
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.exe
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.deps.json
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.runtimeconfig.json
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.dll
+G:\js-TodoList\bin\Debug\net6.0\Yeni klasör.pdb
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.csproj.AssemblyReference.cache
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.AssemblyInfoInputs.cache
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.AssemblyInfo.cs
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.csproj.CoreCompileInputs.cache
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.MvcApplicationPartsAssemblyInfo.cache
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cache
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cs
+G:\js-TodoList\obj\Debug\net6.0\staticwebassets.build.json
+G:\js-TodoList\obj\Debug\net6.0\staticwebassets.development.json
+G:\js-TodoList\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\js-TodoList\obj\Debug\net6.0\scopedcss\bundle\Yeni klasör.styles.css
+G:\js-TodoList\obj\Debug\net6.0\scopedcss\projectbundle\Yeni klasör.bundle.scp.css
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.dll
+G:\js-TodoList\obj\Debug\net6.0\refint\Yeni klasör.dll
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.pdb
+G:\js-TodoList\obj\Debug\net6.0\Yeni klasör.genruntimeconfig.cache
+G:\js-TodoList\obj\Debug\net6.0\ref\Yeni klasör.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\appsettings.Development.json
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\appsettings.json
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.staticwebassets.runtime.json
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.exe
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.deps.json
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.runtimeconfig.json
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Yeni klasör.pdb
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.csproj.AssemblyReference.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.AssemblyInfoInputs.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.AssemblyInfo.cs
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.csproj.CoreCompileInputs.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.MvcApplicationPartsAssemblyInfo.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.RazorAssemblyInfo.cs
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\staticwebassets.build.json
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\staticwebassets.development.json
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\scopedcss\bundle\Yeni klasör.styles.css
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\scopedcss\projectbundle\Yeni klasör.bundle.scp.css
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.dll
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\refint\Yeni klasör.dll
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.pdb
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.genruntimeconfig.cache
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\ref\Yeni klasör.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Humanizer.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\MySqlConnector.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\System.CodeDom.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\System.Text.Json.dll
+G:\2.Dönem Html\js-TodoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\2.Dönem Html\js-TodoList\obj\Debug\net6.0\Yeni klasör.csproj.CopyComplete
