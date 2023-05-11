@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+	<!--================Header Menu Area =================-->
+
+	<!--================Header Menu Area =================-->
+	<!--================Home Banner Area =================-->
+	
+	<!--================End Home Banner Area =================-->
+@{await Html.RenderPartialAsync("_Banner");}
+	<!--================Mission Area =================-->
+@{await Html.RenderPartialAsync("_About");}
+	<!--================End Mission Area =================-->
+
+	<!--================Project Area =================-->
+	@{await Html.RenderPartialAsync("_Project");}
+	<!--================End Project Area =================-->
+
+	<!--================Team Area =================-->
+	@{await Html.RenderPartialAsync("_Team");}
+	<!--================End Team Area =================-->
+
+	<!--================Project Details Area =================-->
+	@{await Html.RenderPartialAsync("_Message");}
+	<!--================End Project Details Area =================-->
+
+	<!--================Home Blog Area =================-->
+	@{await Html.RenderPartialAsync("_Blog");}
+	<!--================End Home Blog Area =================-->
+
+	<!--================ start footer Area  =================-->
+	
+	<!--================ End footer Area  =================-->
+
+
+
+
+
